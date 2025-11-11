@@ -48,7 +48,7 @@ The project follows a structured four-stage workflow:
 
 ### 📂 Links to key files
 - [Executive Summary (PDF)](link-to-your-executive-summary.pdf)  
-- [EDA Notebook](notebooks/TravelTide_-_EDA.ipynb)  
+- [[EDA Notebook]](https://github.com/fuerdagegen/TravelTide/blob/main/notebooks/Travel_Tide_%E2%80%93_EDA.ipynb)  
 - [Feature Engineering & Aggregated Analysis](notebooks/TravelTide_-_Aggregated_Analysis_and_Feature_Engineering.ipynb)  
 - [Machine Learning Notebook](notebooks/TravelTide_-_Machine_Learning.ipynb)  
 - [User Aggregated Dataset](data/traveltide_user_agg_features.csv)
