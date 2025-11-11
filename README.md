@@ -47,7 +47,7 @@ The project follows a structured four-stage workflow:
 ---
 
 ### 📂 Links to key files
-- [Executive Summary (PDF)](output/TravelTide – Executive Summary.pdf)
+- [Executive Summary (PDF)](output/TravelTide%20%E2%80%93%20Executive%20Summary.pdf)
 - [EDA Notebook](notebooks/Travel_Tide_%E2%80%93_EDA.ipynb)  
 - [Aggregated Analysis and Feature Engineering Notebook](notebooks/Travel_Tide_%E2%80%93_Aggregated_Analysis_and_Feature_Engineering.ipynb)
 - [Machine Learning Notebook](notebooks/Travel_Tide_%E2%80%93_Machine_Learning.ipynb)
