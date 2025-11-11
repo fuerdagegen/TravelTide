@@ -52,6 +52,7 @@ The project follows a structured four-stage workflow:
 - [Aggregated Analysis and Feature Engineering Notebook](notebooks/Travel_Tide_%E2%80%93_Aggregated_Analysis_and_Feature_Engineering.ipynb)
 - [Machine Learning Notebook](notebooks/Travel_Tide_%E2%80%93_Machine_Learning.ipynb)
 - [User Aggregated Dataset](data/traveltide_user_agg_features.csv)
+- [User Personas and Perks](output/User%20Personas%20and%20Perks.csv)
 
 ---
 
